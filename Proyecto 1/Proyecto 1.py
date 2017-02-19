@@ -41,7 +41,7 @@ def Insertion_Sort(A):
 def Quicksort_Loop(A,f,b):
     y = b - f
     while y > size_threshold:
-        p = Partition(A,f,b,Median_of_3(A[f],A[f+y/2],A[b-1]))
+        p = Partition(A,f,b,Median_of_3(A[f],A[f+int(y/2)],A[b-1]))
         if p-f >= b-p:
             b = p
             Quicksort_Loop(A,p,b)
@@ -61,7 +61,7 @@ def Quicksort(A,f,b):
     Quicksort_Loop(A,f,b)
     Insertion_Sort(A)
 
-A = [86,24,6,2,1,4,45,2,0,29,100,58,9,48]
+A = [86,24,6,2,1,4,45,2]
 
 #Quicksort(A,0,len(A))
 
@@ -73,7 +73,7 @@ def Introsort_Loop(A,f,b,depth_limit):
         if depth_limit == 0:
             heap_sort(A)
         depth_limit = depth_limit - 1
-        p = Partition(A,f,b,Median_of_3(A[f],A[f + y/2],A[b-1]))
+        p = Partition(A,f,b,Median_of_3(A[f],A[f + int(y/2)],A[b-1]))
         Introsort_Loop(A,p,b,depth_limit)
         b = p
 
@@ -129,3 +129,45 @@ def Quicksort_3_way(A,l,r):
 
 #Quicksort_3_way(A,0,len(A)-1)
 print(A)
+
+#QUICKSORT_YAROSLAVSKIY
+
+def QuicksortYaroslavskiy(A,left,right):
+    y = right - left
+    if y < len(A):
+        Insertion_Sort(A)
+    else:
+        if A[left]>A[right]:
+            p,q = A[right], A[left]
+        else:
+            p,q = A[left], A[right]
+        l = left+1
+        g = right-1
+        k=l
+        while k<=g:
+            if A[k] < p:
+                A[k],A[l] = A[l],A[k]  #Swap
+                l = l+1
+            else:
+                if A[k] >= q:
+                    while A[g] > q and k < g:
+                        g = g-1
+                    if A[g] >= p:
+                        A[k],A[g] = A[g],A[k] #Swap
+                    else:
+                        A[k],A[g] = A[g],A[k]
+                        A[k],A[l] = A[l],A[k]
+                        l=l+1
+                    g=g-1
+            k = k + 1
+        l = l-1
+        g = g+1
+        A[left],A[l] = A[l],p
+        A[right],A[g] = A[g],q
+        QuicksortYaroslavskiy(A,lef,l-1)
+        QuicksortYaroslavskiy(A,l+1,g-1)
+        QuicksortYaroslavskiy(A,g+1,right)
+
+#QuicksortYaroslavskiy(A,0,len(A)-1)
+print(A)
+
