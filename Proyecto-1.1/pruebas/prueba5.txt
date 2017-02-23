@@ -1,0 +1,457 @@
+[-5, 0, 0, 2, 2, 4, 6, 7, 12, 21, 22, 41, 54, 54, 58, 534]
+
+Procedimiento Heapsort. Num. de elementos: 4096 Intento: 1
+Tiempo de Heapsort 0.256 segs
+
+Procedimiento Heapsort. Num. de elementos: 4096 Intento: 2
+Tiempo de Heapsort 0.256 segs
+
+Procedimiento Heapsort. Num. de elementos: 4096 Intento: 3
+Tiempo de Heapsort 0.255 segs
+
+**************************************************
+Tiempo promedio de Heapsort: 0.256 segs
+***************************************************
+
+Procedimiento Introsort. Num. de elementos: 4096 Intento: 1
+Tiempo de Introsort 0.111 segs
+
+Procedimiento Introsort. Num. de elementos: 4096 Intento: 2
+Tiempo de Introsort 0.111 segs
+
+Procedimiento Introsort. Num. de elementos: 4096 Intento: 3
+Tiempo de Introsort 0.110 segs
+
+**************************************************
+Tiempo promedio de Introsort: 0.111 segs
+***************************************************
+
+Procedimiento Mergesort. Num. de elementos: 4096 Intento: 1
+Tiempo de Mergesort 0.238 segs
+
+Procedimiento Mergesort. Num. de elementos: 4096 Intento: 2
+Tiempo de Mergesort 0.237 segs
+
+Procedimiento Mergesort. Num. de elementos: 4096 Intento: 3
+Tiempo de Mergesort 0.239 segs
+
+**************************************************
+Tiempo promedio de Mergesort: 0.238 segs
+***************************************************
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 4096 Intento: 1
+Tiempo de QuicksortYaroslavskiy 0.102 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 4096 Intento: 2
+Tiempo de QuicksortYaroslavskiy 0.103 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 4096 Intento: 3
+Tiempo de QuicksortYaroslavskiy 0.102 segs
+
+**************************************************
+Tiempo promedio de QuicksortYaroslavskiy: 0.102 segs
+***************************************************
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 4096 Intento: 1
+Tiempo de Quicksort_3_Way_Partitioning 0.088 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 4096 Intento: 2
+Tiempo de Quicksort_3_Way_Partitioning 0.087 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 4096 Intento: 3
+Tiempo de Quicksort_3_Way_Partitioning 0.087 segs
+
+**************************************************
+Tiempo promedio de Quicksort_3_Way_Partitioning: 0.087 segs
+***************************************************
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 4096 Intento: 1
+Tiempo de Quicksort_Median_of_3 0.111 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 4096 Intento: 2
+Tiempo de Quicksort_Median_of_3 0.115 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 4096 Intento: 3
+Tiempo de Quicksort_Median_of_3 0.112 segs
+
+**************************************************
+Tiempo promedio de Quicksort_Median_of_3: 0.113 segs
+***************************************************
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 4096 Intento: 1
+Tiempo de Randomized_Quicksort 0.143 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 4096 Intento: 2
+Tiempo de Randomized_Quicksort 0.143 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 4096 Intento: 3
+Tiempo de Randomized_Quicksort 0.149 segs
+
+**************************************************
+Tiempo promedio de Randomized_Quicksort: 0.145 segs
+***************************************************
+
+Procedimiento Heapsort. Num. de elementos: 8192 Intento: 1
+Tiempo de Heapsort 0.561 segs
+
+Procedimiento Heapsort. Num. de elementos: 8192 Intento: 2
+Tiempo de Heapsort 0.581 segs
+
+Procedimiento Heapsort. Num. de elementos: 8192 Intento: 3
+Tiempo de Heapsort 0.575 segs
+
+**************************************************
+Tiempo promedio de Heapsort: 0.572 segs
+***************************************************
+
+Procedimiento Introsort. Num. de elementos: 8192 Intento: 1
+Tiempo de Introsort 0.221 segs
+
+Procedimiento Introsort. Num. de elementos: 8192 Intento: 2
+Tiempo de Introsort 0.221 segs
+
+Procedimiento Introsort. Num. de elementos: 8192 Intento: 3
+Tiempo de Introsort 0.220 segs
+
+**************************************************
+Tiempo promedio de Introsort: 0.221 segs
+***************************************************
+
+Procedimiento Mergesort. Num. de elementos: 8192 Intento: 1
+Tiempo de Mergesort 0.522 segs
+
+Procedimiento Mergesort. Num. de elementos: 8192 Intento: 2
+Tiempo de Mergesort 0.523 segs
+
+Procedimiento Mergesort. Num. de elementos: 8192 Intento: 3
+Tiempo de Mergesort 0.541 segs
+
+**************************************************
+Tiempo promedio de Mergesort: 0.529 segs
+***************************************************
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 8192 Intento: 1
+Tiempo de QuicksortYaroslavskiy 0.201 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 8192 Intento: 2
+Tiempo de QuicksortYaroslavskiy 0.200 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 8192 Intento: 3
+Tiempo de QuicksortYaroslavskiy 0.198 segs
+
+**************************************************
+Tiempo promedio de QuicksortYaroslavskiy: 0.200 segs
+***************************************************
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 8192 Intento: 1
+Tiempo de Quicksort_3_Way_Partitioning 0.195 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 8192 Intento: 2
+Tiempo de Quicksort_3_Way_Partitioning 0.190 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 8192 Intento: 3
+Tiempo de Quicksort_3_Way_Partitioning 0.189 segs
+
+**************************************************
+Tiempo promedio de Quicksort_3_Way_Partitioning: 0.191 segs
+***************************************************
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 8192 Intento: 1
+Tiempo de Quicksort_Median_of_3 0.233 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 8192 Intento: 2
+Tiempo de Quicksort_Median_of_3 0.223 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 8192 Intento: 3
+Tiempo de Quicksort_Median_of_3 0.218 segs
+
+**************************************************
+Tiempo promedio de Quicksort_Median_of_3: 0.225 segs
+***************************************************
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 8192 Intento: 1
+Tiempo de Randomized_Quicksort 0.330 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 8192 Intento: 2
+Tiempo de Randomized_Quicksort 0.309 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 8192 Intento: 3
+Tiempo de Randomized_Quicksort 0.315 segs
+
+**************************************************
+Tiempo promedio de Randomized_Quicksort: 0.318 segs
+***************************************************
+
+Procedimiento Heapsort. Num. de elementos: 16384 Intento: 1
+Tiempo de Heapsort 1.236 segs
+
+Procedimiento Heapsort. Num. de elementos: 16384 Intento: 2
+Tiempo de Heapsort 1.230 segs
+
+Procedimiento Heapsort. Num. de elementos: 16384 Intento: 3
+Tiempo de Heapsort 1.249 segs
+
+**************************************************
+Tiempo promedio de Heapsort: 1.238 segs
+***************************************************
+
+Procedimiento Introsort. Num. de elementos: 16384 Intento: 1
+Tiempo de Introsort 0.512 segs
+
+Procedimiento Introsort. Num. de elementos: 16384 Intento: 2
+Tiempo de Introsort 0.509 segs
+
+Procedimiento Introsort. Num. de elementos: 16384 Intento: 3
+Tiempo de Introsort 0.511 segs
+
+**************************************************
+Tiempo promedio de Introsort: 0.510 segs
+***************************************************
+
+Procedimiento Mergesort. Num. de elementos: 16384 Intento: 1
+Tiempo de Mergesort 1.111 segs
+
+Procedimiento Mergesort. Num. de elementos: 16384 Intento: 2
+Tiempo de Mergesort 1.113 segs
+
+Procedimiento Mergesort. Num. de elementos: 16384 Intento: 3
+Tiempo de Mergesort 1.115 segs
+
+**************************************************
+Tiempo promedio de Mergesort: 1.113 segs
+***************************************************
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 16384 Intento: 1
+Tiempo de QuicksortYaroslavskiy 0.455 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 16384 Intento: 2
+Tiempo de QuicksortYaroslavskiy 0.454 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 16384 Intento: 3
+Tiempo de QuicksortYaroslavskiy 0.455 segs
+
+**************************************************
+Tiempo promedio de QuicksortYaroslavskiy: 0.454 segs
+***************************************************
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 16384 Intento: 1
+Tiempo de Quicksort_3_Way_Partitioning 0.407 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 16384 Intento: 2
+Tiempo de Quicksort_3_Way_Partitioning 0.405 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 16384 Intento: 3
+Tiempo de Quicksort_3_Way_Partitioning 0.407 segs
+
+**************************************************
+Tiempo promedio de Quicksort_3_Way_Partitioning: 0.406 segs
+***************************************************
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 16384 Intento: 1
+Tiempo de Quicksort_Median_of_3 0.510 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 16384 Intento: 2
+Tiempo de Quicksort_Median_of_3 0.508 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 16384 Intento: 3
+Tiempo de Quicksort_Median_of_3 0.509 segs
+
+**************************************************
+Tiempo promedio de Quicksort_Median_of_3: 0.509 segs
+***************************************************
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 16384 Intento: 1
+Tiempo de Randomized_Quicksort 0.666 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 16384 Intento: 2
+Tiempo de Randomized_Quicksort 0.707 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 16384 Intento: 3
+Tiempo de Randomized_Quicksort 0.671 segs
+
+**************************************************
+Tiempo promedio de Randomized_Quicksort: 0.681 segs
+***************************************************
+
+Procedimiento Heapsort. Num. de elementos: 32768 Intento: 1
+Tiempo de Heapsort 2.632 segs
+
+Procedimiento Heapsort. Num. de elementos: 32768 Intento: 2
+Tiempo de Heapsort 2.634 segs
+
+Procedimiento Heapsort. Num. de elementos: 32768 Intento: 3
+Tiempo de Heapsort 2.637 segs
+
+**************************************************
+Tiempo promedio de Heapsort: 2.634 segs
+***************************************************
+
+Procedimiento Introsort. Num. de elementos: 32768 Intento: 1
+Tiempo de Introsort 1.045 segs
+
+Procedimiento Introsort. Num. de elementos: 32768 Intento: 2
+Tiempo de Introsort 1.042 segs
+
+Procedimiento Introsort. Num. de elementos: 32768 Intento: 3
+Tiempo de Introsort 1.041 segs
+
+**************************************************
+Tiempo promedio de Introsort: 1.043 segs
+***************************************************
+
+Procedimiento Mergesort. Num. de elementos: 32768 Intento: 1
+Tiempo de Mergesort 2.418 segs
+
+Procedimiento Mergesort. Num. de elementos: 32768 Intento: 2
+Tiempo de Mergesort 2.408 segs
+
+Procedimiento Mergesort. Num. de elementos: 32768 Intento: 3
+Tiempo de Mergesort 2.417 segs
+
+**************************************************
+Tiempo promedio de Mergesort: 2.414 segs
+***************************************************
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 32768 Intento: 1
+Tiempo de QuicksortYaroslavskiy 0.923 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 32768 Intento: 2
+Tiempo de QuicksortYaroslavskiy 0.924 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 32768 Intento: 3
+Tiempo de QuicksortYaroslavskiy 0.925 segs
+
+**************************************************
+Tiempo promedio de QuicksortYaroslavskiy: 0.924 segs
+***************************************************
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 32768 Intento: 1
+Tiempo de Quicksort_3_Way_Partitioning 0.875 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 32768 Intento: 2
+Tiempo de Quicksort_3_Way_Partitioning 0.873 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 32768 Intento: 3
+Tiempo de Quicksort_3_Way_Partitioning 0.875 segs
+
+**************************************************
+Tiempo promedio de Quicksort_3_Way_Partitioning: 0.874 segs
+***************************************************
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 32768 Intento: 1
+Tiempo de Quicksort_Median_of_3 1.042 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 32768 Intento: 2
+Tiempo de Quicksort_Median_of_3 1.042 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 32768 Intento: 3
+Tiempo de Quicksort_Median_of_3 1.042 segs
+
+**************************************************
+Tiempo promedio de Quicksort_Median_of_3: 1.042 segs
+***************************************************
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 32768 Intento: 1
+Tiempo de Randomized_Quicksort 1.566 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 32768 Intento: 2
+Tiempo de Randomized_Quicksort 1.399 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 32768 Intento: 3
+Tiempo de Randomized_Quicksort 1.422 segs
+
+**************************************************
+Tiempo promedio de Randomized_Quicksort: 1.462 segs
+***************************************************
+
+Procedimiento Heapsort. Num. de elementos: 65536 Intento: 1
+Tiempo de Heapsort 5.659 segs
+
+Procedimiento Heapsort. Num. de elementos: 65536 Intento: 2
+Tiempo de Heapsort 5.664 segs
+
+Procedimiento Heapsort. Num. de elementos: 65536 Intento: 3
+Tiempo de Heapsort 5.661 segs
+
+**************************************************
+Tiempo promedio de Heapsort: 5.661 segs
+***************************************************
+
+Procedimiento Introsort. Num. de elementos: 65536 Intento: 1
+Tiempo de Introsort 2.468 segs
+
+Procedimiento Introsort. Num. de elementos: 65536 Intento: 2
+Tiempo de Introsort 2.469 segs
+
+Procedimiento Introsort. Num. de elementos: 65536 Intento: 3
+Tiempo de Introsort 2.469 segs
+
+**************************************************
+Tiempo promedio de Introsort: 2.469 segs
+***************************************************
+
+Procedimiento Mergesort. Num. de elementos: 65536 Intento: 1
+Tiempo de Mergesort 5.259 segs
+
+Procedimiento Mergesort. Num. de elementos: 65536 Intento: 2
+Tiempo de Mergesort 5.248 segs
+
+Procedimiento Mergesort. Num. de elementos: 65536 Intento: 3
+Tiempo de Mergesort 5.261 segs
+
+**************************************************
+Tiempo promedio de Mergesort: 5.256 segs
+***************************************************
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 65536 Intento: 1
+Tiempo de QuicksortYaroslavskiy 2.135 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 65536 Intento: 2
+Tiempo de QuicksortYaroslavskiy 2.136 segs
+
+Procedimiento QuicksortYaroslavskiy. Num. de elementos: 65536 Intento: 3
+Tiempo de QuicksortYaroslavskiy 2.135 segs
+
+**************************************************
+Tiempo promedio de QuicksortYaroslavskiy: 2.135 segs
+***************************************************
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 65536 Intento: 1
+Tiempo de Quicksort_3_Way_Partitioning 1.886 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 65536 Intento: 2
+Tiempo de Quicksort_3_Way_Partitioning 1.887 segs
+
+Procedimiento Quicksort_3_Way_Partitioning. Num. de elementos: 65536 Intento: 3
+Tiempo de Quicksort_3_Way_Partitioning 1.885 segs
+
+**************************************************
+Tiempo promedio de Quicksort_3_Way_Partitioning: 1.886 segs
+***************************************************
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 65536 Intento: 1
+Tiempo de Quicksort_Median_of_3 2.466 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 65536 Intento: 2
+Tiempo de Quicksort_Median_of_3 2.467 segs
+
+Procedimiento Quicksort_Median_of_3. Num. de elementos: 65536 Intento: 3
+Tiempo de Quicksort_Median_of_3 2.519 segs
+
+**************************************************
+Tiempo promedio de Quicksort_Median_of_3: 2.484 segs
+***************************************************
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 65536 Intento: 1
+Tiempo de Randomized_Quicksort 3.196 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 65536 Intento: 2
+Tiempo de Randomized_Quicksort 3.036 segs
+
+Procedimiento Randomized_Quicksort. Num. de elementos: 65536 Intento: 3
+Tiempo de Randomized_Quicksort 3.036 segs
+
+**************************************************
+Tiempo promedio de Randomized_Quicksort: 3.089 segs
+***************************************************
+Presione cualquier tecla para terminar
