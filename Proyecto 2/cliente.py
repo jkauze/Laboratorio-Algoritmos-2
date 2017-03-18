@@ -55,37 +55,37 @@ if __name__ == "__main__":
 			print("Titulo,Artista")
 			for i in range(x.count):
 				print(y.elemento.titulo+","+y.elemento.artista)
-			continuar = input("--------PRESIONE CUALQUIER LETRA PARA CONTINUAR--------")
+			continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------")
 		elif opcion == 2:
 			try:
 				c = Cancion(input("Titulo de la Canción: "),input("Artista de la Cancion: "),input("Archivo: "))
 				rep.sonarDespues(c)
 				print("-----> Canción Agregada")
-				continuar = input("--------PRESIONE CUALQUIER LETRA PARA CONTINUAR--------")
+				continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------")
 			except:
 				print("-----> Canción Inválida")
-				continuar = input("--------PRESIONE CUALQUIER LETRA PARA CONTINUAR--------") 
+				continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------") 
 		elif opcion == 3:
 			try:
 				c = Cancion(input("Titulo de la Canción: "),input("Artista de la Cancion: "),input("Archivo: "))
 				rep.sonarAntes(c)
 				print("-----> Canción Agregada")
-				continuar = input("--------PRESIONE CUALQUIER LETRA PARA CONTINUAR--------")
+				continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------")
 			except:
 				print("-----> Canción Inválida")
-				continuar = input("--------PRESIONE CUALQUIER LETRA PARA CONTINUAR--------") 
+				continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------") 
 		elif opcion == 4:
 			rep.__playlist.ordenar_artista()
 			print("-----> Lista Ordenada por artista")
-			continuar = input("--------PRESIONE CUALQUIER LETRA PARA CONTINUAR--------")
+			continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------")
 		elif opcion == 5:
 			rep.__playlist.ordenar_titulo()
 			print("-----> Lista Ordenada por titulo")
-			continuar = input("--------PRESIONE CUALQUIER LETRA PARA CONTINUAR--------")
+			continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------")
 		elif opcion == 6:
 			titulo = input("Titulo de la canción: ")
 			rep.eliminar(titulo)
-			continuar = input("--------PRESIONE CUALQUIER LETRA PARA CONTINUAR--------")
+			continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------")
 		elif opcion == 7:
 			pass
 		elif opcion == 8:
