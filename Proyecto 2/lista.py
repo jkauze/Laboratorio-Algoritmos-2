@@ -35,7 +35,10 @@ class ListaReproduccion(object):
 		return self.proximo
 
 	def agregar_final(self,cancion):
-		pass
+		# AGREGA CANCIONES JUSTO ANTES DEL ELEMENTO PROXIMO DE LA LISTA PARA QUE SEA LA ULTIMA
+		self.proximo.previous = NodoLista(self.proximo.previous, cancion, self.proximo)
+		self.proximo.previous.previous.next = self.proximo.previous #Porque el proximo.previous.previous, es el previous original,
+		return self.proximo.previous
 
 	def merge(self,p,q,r,comparacion):
 		# Funcion merge del mergesort, que particiona y ordena
