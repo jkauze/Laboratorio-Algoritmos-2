@@ -32,7 +32,7 @@ if __name__ == "__main__":
 
 	for x in lista:
 		c = Cancion(x[0],x[1],x[2])
-		rep.__playlist(c)
+		rep.__playlist.agregar(c)
 
 	#############
 	# Menu loop #
