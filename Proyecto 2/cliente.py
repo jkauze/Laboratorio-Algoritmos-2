@@ -83,12 +83,20 @@ if __name__ == "__main__":
 			print("-----> Lista Ordenada por titulo")
 			continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------")
 		elif opcion == 6:
-			titulo = input("Titulo de la canción: ")
-			rep.eliminar(titulo)
+			titulo_solicitado = input("Introduzca el nombre del titulo a eliminar: ")
+			while titulo_solicitado == "":
+				print("No introdujo ningun titulo. Vuelva a intentarlo \n")
+				titulo_solicitado = input("Introduzca el nombre del titulo a eliminar: ")
+				print("")
+			try:
+				rep.eleminar(titulo_solicitado)
+			except:
+            			print("Ocurrio un error en el programa.")
 			continuar = input("--------PRESIONE ENTER PARA CONTINUAR--------")
 		elif opcion == 7:
 			pass
 		elif opcion == 8:
+			print("\n Hasta luego")
 			break
 
 	############
