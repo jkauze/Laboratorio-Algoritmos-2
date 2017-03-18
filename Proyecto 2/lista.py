@@ -8,7 +8,7 @@ crear las listas de reproducción.
 from cancion import Cancion
 
 class NodoLista(object):
-	def __init__(self,anterior,cancion,nex):
+	def __init__(self,previous,cancion,nex):
 		self.siguiente = nex
 		self.elemento = cancion
 		self.anterior = previous
